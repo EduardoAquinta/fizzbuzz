@@ -1,0 +1,22 @@
+{
+  "name": "fizz-buzz",
+  "version": "1.0.0",
+  "description": "first kata from Agile book",
+  "main": "fizz-buzz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EduardoAquinta/fizzbuzz.git"
+  },
+  "author": "EduardoAquinta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoAquinta/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/EduardoAquinta/fizzbuzz#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
